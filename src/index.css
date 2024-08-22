@@ -1,0 +1,15 @@
+p {
+    border: 1px solid black;
+    font-size: 1em;
+    padding: 3em;
+    margin: 0 10% 0 10%;
+    text-align: center;
+}
+
+.display-color {
+    margin-bottom: 2%;
+}
+
+.color-picker-container {
+    text-align: center;
+}
